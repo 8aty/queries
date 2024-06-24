@@ -1,2 +1,2 @@
-# MS REWARD SYSTEM OPTIMAZE QUERY LIST
+# MS REWARD SYSTEM OPTIMIZE QUERY LIST
 ## No association with Microsoft or Bing
